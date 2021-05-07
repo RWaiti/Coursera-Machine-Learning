@@ -11,7 +11,7 @@ Exercise Part | Exercise | Done
 |:---:|:---:|:---:|
 1 | Warm up exercise |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/images/check-mark-emoji.png?raw=true" width="50" height="50">
 2 | Compute cost for one variable |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/images/check-mark-emoji.png?raw=true" width="50" height="50">
-3 | Gradient descent for one variable |
+3 | Gradient descent for one variable |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/images/check-mark-emoji.png?raw=true" width="50" height="50">
 4 | Feature normalization |
 5 | Compute cost for multiple variables |
 6 | Gradient descent for multiple variables |
