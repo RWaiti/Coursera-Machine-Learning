@@ -19,11 +19,11 @@ Training Linear Regression with One Variable Result</br>
 
 Surface|Contour with minimun(X)
 |:--:|:--:|
-![Alt text](https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/Surface-J-Theta0Theta1-.svg?raw=true "Title") | ![Alt text](https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/Contour-J-theta0theta1-.svg?raw=true "Title")
+![Alt text](https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/Surface-J-Theta0Theta1-.svg?raw=true "Surface-J-Theta0Theta1") | ![Alt text](https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/Contour-J-theta0theta1-.svg?raw=true "Contour-J-theta0theta1")
 
 Exercise Part | Exercise | Done
 |:---:|:---:|:---:|
-4 | Feature normalization |
+4 | Feature normalization |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 5 | Compute cost for multiple variables |
 6 | Gradient descent for multiple variables |
 7 | Normal equations |
