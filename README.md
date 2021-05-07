@@ -1,7 +1,7 @@
 # Coursera-Machine-Learning
 Programming Exercise 1: Linear Regression Machine Learning por Universidade de Stanford
  
- Sendo feito em Octave 6.2.0, pela escolha do Professor, mas tenho objetivo de refazer em Python.
+ Sendo feito em Octave 6.2.0, pois o Professor Andrew Ng percebeu que Octave fazia os alunos entederem mais a matéria, mas tenho objetivo de refazer em Python.
  
 Data
 
