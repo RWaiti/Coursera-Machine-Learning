@@ -62,12 +62,12 @@ alpha = 0.01;
 fprintf('\nTesting the cost function ...\n')
 % compute and display initial cost
 J = computeCost(X, y, theta);
-fprintf('With theta = [0 ; 0]\nCost computed = %f\n', J);
+fprintf('With theta = [0 ; 0]\nCost computed = %.2f\n', J);
 fprintf('Expected cost value (approx) 32.07\n');
 
 % further testing of the cost function
 J = computeCost(X, y, [-1 ; 2]);
-fprintf('\nWith theta = [-1 ; 2]\nCost computed = %f\n', J);
+fprintf('\nWith theta = [-1 ; 2]\nCost computed = %.2f\n', J);
 fprintf('Expected cost value (approx) 54.24\n');
 
 fprintf('Program paused. Press enter to continue.\n');
