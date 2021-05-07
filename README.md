@@ -11,11 +11,14 @@ Exercise Part | Exercise | Done
 2 | Compute cost for one variable |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 3 | Gradient descent for one variable |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 
+|Training Data|
+|:--:|
+![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/DataPlot.svg?raw=true">
+Training Linear Regression with One Variable Result</br>
+![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/GradientDescentOneVariable.svg?raw=true">
 
-Training Data|Training Linear Regression with One Variable Result
-|:---:|:---:|
-![Alt text](https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/DataPlot.svg?raw=true "Title") | ![Alt text](https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/GradientDescentOneVariable.svg?raw=true "Title") 
 Surface|Contour with minimun(X)
+|:--:|:--:|
 ![Alt text](https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/Surface-J-Theta0Theta1-.svg?raw=true "Title") | ![Alt text](https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/Contour-J-theta0theta1-.svg?raw=true "Title")
 
 Exercise Part | Exercise | Done
