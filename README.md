@@ -26,4 +26,4 @@ Exercise Part | Exercise | Done
 4 | Feature normalization |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 5 | Compute cost for multiple variables |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 6 | Gradient descent for multiple variables |
-7 | Normal equations |
+7 | Normal equations |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">

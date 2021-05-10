@@ -21,7 +21,7 @@ for iter = 1:num_iters
 		temp = (temp + theta .* X(i,:)') - y(i);
 	endfor
 	 temp = temp .* X(1,:)';
-	theta = theta - alpha*(1/m)*temp
+	theta = theta - alpha*(1/m)*temp;
 
     % ============================================================
 
