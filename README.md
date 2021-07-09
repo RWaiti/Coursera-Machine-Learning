@@ -28,7 +28,9 @@ Exercise Part | Exercise | Done
 6 | Gradient descent for multiple variables |
 7 | Normal equations |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 
-Exercise 2 - Logistic Regression
+**Exercise 2 - Logistic Regression**</br>
+In this part of the exercise, you will build a logistic regression model to predict whether a student gets admitted into a university. Suppose that you are the administrator of a university department and you want to determine each applicant's chance of admission based on their results on two exams. You have historical data from previous applicants that you can use as a training set for logistic regression. For each training example, you have the applicant's scores on two exams and the admissions decision. Your task is to build a classification model that estimates an applicant's probability of admission based the scores from those two exams.
+
 |Training Data|
 |:--:|
 ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataPlot.svg?raw=true">
