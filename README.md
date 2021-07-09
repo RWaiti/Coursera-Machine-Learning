@@ -28,6 +28,7 @@ Exercise Part | Exercise | Done
 6 | Gradient descent for multiple variables |
 7 | Normal equations |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 
+Exercise 2 - Logistic Regression
 |Training Data|
 |:--:|
 ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataPlot.svg?raw=true">
