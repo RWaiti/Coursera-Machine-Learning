@@ -34,6 +34,8 @@ In this part of the exercise, you will build a logistic regression model to pred
 |Training Data|
 |:--:|
 ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataPlot.svg?raw=true">
+Non Regularized Logistic Regression Decision Boundary</br>
+![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataDecisionBoundary.svg?raw=true">
 
 Exercise Part | Exercise | Done
 |:---:|:---:|:---:|
