@@ -38,7 +38,7 @@ In this part of the exercise, you will build a logistic regression model to pred
 Exercise Part | Exercise | Done
 |:---:|:---:|:---:|
 1 | Sigmoid function |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-2 | Compute cost for logistic regression |
+2 | Compute cost for logistic regression |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 3 | Gradient for logistic regression |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 4 | Predict function |
 5 | Compute cost for regularized LR |
