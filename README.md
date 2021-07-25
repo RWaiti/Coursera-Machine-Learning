@@ -50,6 +50,10 @@ Exercise Part | Exercise | Done
 Regularized Logistic Regression Decision Boundary</br>
 ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataRegDecisionBoundary.svg?raw=true">
 
+Underfitting|Overfitting
+|:--:|:--:|
+![Alt text](https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataRegDecisionBoundaryUnderfitting.svg?raw=true "Decision Boundary with Underfitting") | ![Alt text](https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataRegDecisionBoundaryOverfitting.svg?raw=true "Decision Boundary with Overfitting")
+
 Exercise Part | Exercise | Done
 |:---:|:---:|:---:|
 5 | Compute cost for regularized LR |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
