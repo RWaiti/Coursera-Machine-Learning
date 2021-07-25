@@ -265,7 +265,7 @@ CreationDate: Sun Jul 25 01:10:23 2021
    <polyline stroke-width="0.5" points="377.092,54.696 376.696,56.4316 375.586,57.8234 373.982,58.5958 372.202,58.5958 370.598,57.8234 369.488,56.4316 369.092,54.696 369.488,52.9605 370.598,51.5687 372.202,50.7963 373.982,50.7963 375.586,51.5687 376.696,52.9605 377.092,54.696" fill="none" stroke="#ff0000" stroke-linejoin="round" stroke-linecap="round"/>
    <text font-family="FreeSans" transform="translate(384.991,59.196) rotate(-0,-0,-4.5)" xml:space="preserve" font-weight="normal" font-style="normal" font-size="9">
     <tspan x="0 7 12 15 17 22 27 34 36 39 42 47 " y="-1" fill="rgb(0,0,0)">Not admitted</tspan>
-   </text>
+   </text> 
   </g>
  </g>
 </svg>
