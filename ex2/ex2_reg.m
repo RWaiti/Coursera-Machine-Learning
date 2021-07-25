@@ -67,10 +67,10 @@ lambda = 1;
 % regression
 [cost, grad] = costFunctionReg(initial_theta, X, y, lambda);
 
-fprintf('Cost at initial theta (zeros): %f\n', cost);
+fprintf('Cost at initial theta (zeros): %.3f\n', cost);
 fprintf('Expected cost (approx): 0.693\n');
 fprintf('Gradient at initial theta (zeros) - first five values only:\n');
-fprintf(' %f \n', grad(1:5));
+fprintf(' %.4f \n', grad(1:5));
 fprintf('Expected gradients (approx) - first five values only:\n');
 fprintf(' 0.0085\n 0.0188\n 0.0001\n 0.0503\n 0.0115\n');
 
@@ -82,10 +82,10 @@ pause;
 test_theta = ones(size(X,2),1);
 [cost, grad] = costFunctionReg(test_theta, X, y, 10);
 
-fprintf('\nCost at test theta (with lambda = 10): %f\n', cost);
+fprintf('\nCost at test theta (with lambda = 10): %.2f\n', cost);
 fprintf('Expected cost (approx): 3.16\n');
 fprintf('Gradient at test theta - first five values only:\n');
-fprintf(' %f \n', grad(1:5));
+fprintf(' %.4f \n', grad(1:5));
 fprintf('Expected gradients (approx) - first five values only:\n');
 fprintf(' 0.3460\n 0.1614\n 0.1948\n 0.2269\n 0.0922\n');
 
@@ -131,6 +131,6 @@ hold off;
 % Compute accuracy on our training set
 p = predict(theta, X);
 
-fprintf('Train Accuracy: %f\n', mean(double(p == y)) * 100);
+fprintf('Train Accuracy: %.1f\n', mean(double(p == y)) * 100);
 fprintf('Expected accuracy (with lambda = 1): 83.1 (approx)\n');
 
