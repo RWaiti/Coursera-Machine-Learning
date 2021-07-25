@@ -39,7 +39,7 @@ Exercise Part | Exercise | Done
 |:---:|:---:|:---:|
 1 | Sigmoid function |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 2 | Compute cost for logistic regression |
-3 | Gradient for logistic regression |
+3 | Gradient for logistic regression |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 4 | Predict function |
 5 | Compute cost for regularized LR |
 6 | Gradient for regularized LR |
