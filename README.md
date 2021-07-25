@@ -47,8 +47,10 @@ Exercise Part | Exercise | Done
 |Training Data|
 |:--:|
 ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataPlotReg.svg?raw=true">
+Regularized Logistic Regression Decision Boundary</br>
+![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataRegDecisionBoundary.svg?raw=true">
 
 Exercise Part | Exercise | Done
 |:---:|:---:|:---:|
-5 | Compute cost for regularized LR |
-6 | Gradient for regularized LR |
+5 | Compute cost for regularized LR |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+6 | Gradient for regularized LR |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
