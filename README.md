@@ -74,7 +74,7 @@ networks to recognize hand-written digits.
 
 <center>
 
-| Training Data Sample |
+| Training Data Sample (100 from 5000 images) |
 |:--------------------:|
 ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/dataSample.png?raw=true">
 
