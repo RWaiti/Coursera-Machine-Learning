@@ -58,3 +58,19 @@ Exercise Part | Exercise | Done
 |:---:|:---:|:---:|
 5 | Compute cost for regularized LR |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 6 | Gradient for regularized LR |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+
+
+**Exercise 3 - Multi-class Classification and Neural Networks**
+In this exercise, you will implement one-vs-all logistic regression and neural
+networks to recognize hand-written digits.
+
+|Training Data Sample|
+|:--:|
+![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/dataSample.png?raw=true">
+
+Exercise Part | Exercise | Done
+|:---:|:---:|:---:|
+1 | Regularized logistic regression | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+2 | One-vs-all classifier training | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+3 | One-vs-all classifier prediction | 
+4 | Neural network prediction function | 
