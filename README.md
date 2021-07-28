@@ -91,6 +91,8 @@ that we have already trained. Your goal is to implement the feedforward propagat
 |:-------------:|:--------:|:----:|
 4 | Neural network prediction function | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 
+Octave doesn't have 0 index, so we are using 10 to index the number 0.
+
 |     |     |     |     |     |
 |:---:|:---:|:---:|:---:|:---:|
 ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction0.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction0.2.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction1.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction1.2.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction2.png?raw=true">
