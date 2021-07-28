@@ -79,12 +79,9 @@ for i = 1:m
     displayData(X(rp(i), :));
 
     pred = predict(Theta1, Theta2, X(rp(i),:));
-    fprintf('\nNeural Network Prediction: %d (digit %d)\n', pred, mod(pred, 10));
+    fprintf('\nNeural Network Prediction: %d\n', pred, mod(pred, 10));
     
     % Pause with quit option
-    s = input('Paused - press enter to continue, q to exit:','s');
-    if s == 'q'
-      break
-    end
+    pause(3);
 end
 
