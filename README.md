@@ -82,7 +82,7 @@ networks to recognize hand-written digits.
 |:-------------:|:--------:|:----:|
 1 | Regularized logistic regression | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 2 | One-vs-all classifier training | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-3 | One-vs-all classifier prediction | 
+3 | One-vs-all classifier prediction | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 4 | Neural network prediction function | 
 
 </center>
