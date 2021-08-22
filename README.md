@@ -108,6 +108,7 @@ Octave doesn't have 0 index, so we are using 10 to index the number 0.
 In this exercise, you will implement the backpropagation algorithm for neural networks and apply it to the task of hand-written digit recognition.
 
 <center>
+ 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
 1 | Feedforward and Cost Function | 
@@ -115,4 +116,5 @@ In this exercise, you will implement the backpropagation algorithm for neural ne
 3 | Sigmoid Gradient | 
 4 | Neural Net Gradient Function (Backpropagation) | 
 5 | Regularized Gradient | 
+ 
 </center>
