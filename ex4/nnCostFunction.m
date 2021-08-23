@@ -64,11 +64,23 @@ Theta2_grad = zeros(size(Theta2));
 %               the regularization separately and then add them to Theta1_grad
 %               and Theta2_grad from Part 2.
 %
-
+%%% Feedforward %%%
 a2 = sigmoid(X*Theta1');
 a2 = [ones(size(a2, 1), 1) a2];
 a3 = sigmoid(a2*Theta2');
 
+[_, onehotA3] = max(a3, [], 2);
+onehotA3 = onehotA3 == 1:max(y);
+
+%%% Cost Function %%%
+y = y == 1:max(y);
+J = (1/m) * sum(sum((-y.*log(a3) - (1-y).*log(1-a3))));
+
+%%% Regularization %%%
+J = J + (lambda/(2*m)) * (sum(sum((Theta1(:,2:end).^2)))+sum(sum(Theta2(:,2:end).^2)));
+
+
+%%% Backpropagation %%%
 
 
 % -------------------------------------------------------------
@@ -77,6 +89,5 @@ a3 = sigmoid(a2*Theta2');
 
 % Unroll gradients
 grad = [Theta1_grad(:) ; Theta2_grad(:)];
-
 
 end
