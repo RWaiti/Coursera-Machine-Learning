@@ -80,8 +80,14 @@ J = (1/m) * sum(sum((-y.*log(a3) - (1-y).*log(1-a3))));
 J = J + (lambda/(2*m)) * (sum(sum((Theta1(:,2:end).^2)))+sum(sum(Theta2(:,2:end).^2)));
 
 %%%%%% Backpropagation %%%%%%
+delta3 = onehotA3 - y;
+delta2 = (delta3*Theta2)(:,1:end-1) .* sigmoidGradient(X*Theta1');
 
+Theta1 = Theta1 + (1/m)*(delta2'*X);
+Theta2 = Theta2 + (1/m)*(delta3'*a2);
 
+Theta1_grad = Theta1;
+Theta2_grad = Theta2;
 % -------------------------------------------------------------
 
 % =========================================================================
