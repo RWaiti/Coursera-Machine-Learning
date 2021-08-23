@@ -113,7 +113,7 @@ In this exercise, you will implement the backpropagation algorithm for neural ne
 |:-------------:|:--------:|:----:|
 1 | Feedforward and Cost Function |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 2 | Regularized Cost Function |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-3 | Sigmoid Gradient | 
+3 | Sigmoid Gradient |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 4 | Neural Net Gradient Function (Backpropagation) | 
 5 | Regularized Gradient | 
  
