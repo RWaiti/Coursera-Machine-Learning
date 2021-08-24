@@ -1,4 +1,4 @@
-function [J, grad] = nnCostFunction(nn_params, ...
+function [J grad] = nnCostFunction(nn_params, ...
                                    input_layer_size, ...
                                    hidden_layer_size, ...
                                    num_labels, ...
@@ -23,7 +23,6 @@ Theta2 = reshape(nn_params((1 + (hidden_layer_size * (input_layer_size + 1))):en
                  num_labels, (hidden_layer_size + 1));
 
 % Setup some useful variables
-X = [ones(size(X, 1), 1) X];
 m = size(X, 1);
          
 % You need to return the following variables correctly 
@@ -65,13 +64,13 @@ Theta2_grad = zeros(size(Theta2));
 %               and Theta2_grad from Part 2.
 %
 %%%%%% Feedforward %%%%%%
-a2 = sigmoid(X*Theta1');
-a2 = [ones(size(a2, 1), 1) a2];
-a3 = sigmoid(a2*Theta2');
+a1 = X; %% INPUT LAYER %%
+a1 = [ones(size(a1, 1), 1) a1];% ADDING BIAS %
+a2 = sigmoid(a1*Theta1'); %% HIDDEN LAYER %%
+a2 = [ones(size(a2, 1), 1) a2];% ADDING BIAS %
+a3 = sigmoid(a2*Theta2'); %% OUTPUT LAYER %%
 
 %%%%%% OneHot %%%%%%
-[_, onehotA3] = max(a3, [], 2);
-onehotA3 = onehotA3 == 1:max(y);
 y = y == 1:max(y);
 
 %%%%%% Cost Function %%%%%%
@@ -81,14 +80,16 @@ J = (1/m) * sum(sum((-y.*log(a3) - (1-y).*log(1-a3))));
 J = J + (lambda/(2*m)) * (sum(sum((Theta1(:,2:end).^2)))+sum(sum(Theta2(:,2:end).^2)));
 
 %%%%%% Backpropagation %%%%%%
-delta3 = onehotA3 - y;
-delta2 = (delta3*Theta2)(:,1:end-1) .* sigmoidGradient(X*Theta1');
+delta3 = a3 - y;
+delta2 = (delta3*Theta2)(:,2:end) .* sigmoidGradient(a1*Theta1');
 
-Theta1 = Theta1 + (1/m)*(delta2'*X);
-Theta2 = Theta2 + (1/m)*(delta3'*a2);
+Theta1_grad = (1/m)*(Theta1_grad + (delta2'*a1));
+Theta2_grad = (1/m)*(Theta2_grad + (delta3'*a2));
 
-Theta1_grad = Theta1;
-Theta2_grad = Theta2;
+%%%%%% Backpropagation Regularization %%%%%%
+Theta1_grad(:,2:end) = Theta1_grad(:,2:end) + (lambda/m)*Theta1(:,2:end);
+Theta2_grad(:,2:end) = Theta2_grad(:,2:end) + (lambda/m)*Theta2(:,2:end);
+
 % -------------------------------------------------------------
 
 % =========================================================================
