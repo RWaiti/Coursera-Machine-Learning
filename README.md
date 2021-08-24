@@ -5,7 +5,6 @@
 ***Exercise 1 - Linear Regression***</br>
 In this part of this exercise, you will implement linear regression with one variable to predict profits for a food truck. Suppose you are the CEO of a restaurant franchise and are considering different cities for opening a new outlet. The chain already has trucks in various cities and you have data for profits and populations from the cities. You would like to use this data to help you select which city to expand to next.
 
-<center>
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
@@ -26,17 +25,16 @@ Training Linear Regression with One Variable Result</br>
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-4 | Feature normalization |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-5 | Compute cost for multiple variables |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+4 | Feature normalization | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+5 | Compute cost for multiple variables | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 6 | Gradient descent for multiple variables |
-7 | Normal equations |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+7 | Normal equations | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 
-</center></br>
+</br>
 
 ***Exercise 2 - Logistic Regression***</br>
 In this part of the exercise, you will build a logistic regression model to predict whether a student gets admitted into a university. Suppose that you are the administrator of a university department and you want to determine each applicant's chance of admission based on their results on two exams. You have historical data from previous applicants that you can use as a training set for logistic regression. For each training example, you have the applicant's scores on two exams and the admissions decision. Your task is to build a classification model that estimates an applicant's probability of admission based the scores from those two exams.
 
-<center>
 
 | Training Data |
 |:-------------:|
@@ -47,9 +45,9 @@ Non Regularized Logistic Regression Decision Boundary</br>
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
 1 | Sigmoid function |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-2 | Compute cost for logistic regression |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-3 | Gradient for logistic regression |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-4 | Predict function |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+2 | Compute cost for logistic regression | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+3 | Gradient for logistic regression | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+4 | Predict function | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 
 | Training Data |
 |:-------------:|
@@ -63,15 +61,14 @@ Regularized Logistic Regression Decision Boundary</br>
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-5 | Compute cost for regularized LR |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-6 | Gradient for regularized LR |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+5 | Compute cost for regularized LR | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+6 | Gradient for regularized LR | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 
-</center></br>
+</br>
 
 ***Exercise 3 - Multi-class Classification and Neural Networks***</br>
 In this exercise, you will implement one-vs-all logistic regression and neural networks to recognize hand-written digits.
 
-<center>
 
 | Training Data Sample (100 from 5000 images) |
 |:--------------------:|
@@ -102,19 +99,15 @@ Octave doesn't have 0 index, so we are using 10 to index the number 0.
 |:---:|
 |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction.gif?raw=true">|
 
-</center>
 
 ***Exercise 4 - Neural Networks Learning*** </br>
 In this exercise, you will implement the backpropagation algorithm for neural networks and apply it to the task of hand-written digit recognition.
 
-<center>
  
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-1 | Feedforward and Cost Function |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-2 | Regularized Cost Function |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-3 | Sigmoid Gradient |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-4 | Neural Net Gradient Function (Backpropagation) | 
-5 | Regularized Gradient | 
- 
-</center>
+1 | Feedforward and Cost Function | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+2 | Regularized Cost Function | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+3 | Sigmoid Gradient | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+4 | Neural Net Gradient Function (Backpropagation) | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+5 | Regularized Gradient | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
