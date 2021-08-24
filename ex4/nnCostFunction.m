@@ -77,7 +77,7 @@ y = y == 1:max(y);
 %%%%%% Cost Function %%%%%%
 J = (1/m) * sum(sum((-y.*log(a3) - (1-y).*log(1-a3))));
 
-%%%%%% Regularization %%%%%%
+%%%%%% Cost Function Regularization %%%%%%
 J = J + (lambda/(2*m)) * (sum(sum((Theta1(:,2:end).^2)))+sum(sum(Theta2(:,2:end).^2)));
 
 %%%%%% Backpropagation %%%%%%
