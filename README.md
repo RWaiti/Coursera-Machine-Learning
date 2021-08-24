@@ -84,7 +84,7 @@ In this part of the exercise, you will implement a neural network to recognize h
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-4 | Neural network prediction function | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+4 |    Neural network prediction function    | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 
 Octave doesn't have 0 index, so we are using 10 to index the number 0.
 
