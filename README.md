@@ -126,14 +126,12 @@ In this exercise, you will implement regularized linear regression and use it to
 |:-------------:|:--------:|:----:|
 | 1 | Regularized Linear Regression Cost Function | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 | 2 | Regularized Linear Regression Gradient | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
-
-| Linear Fit - Underfitting |
-|:-------------:|
-| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LinearFitPlot.svg?raw=true"> |
-
-| Exercise Part | Exercise | Done |
-|:-------------:|:--------:|:----:|
 | 3 | Learning Curve | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+
+| Linear Fit | Linear Regression Learning Curve |
+|:-------------:|:-------------:|
+| Underfitting | Showing a high bias problem (Underfit) |
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LinearFitPlot.svg?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LearningCurvePlot.svg?raw=true"> |
 
 | Linear Regression Learning Curve |
 |:-------------:|
@@ -144,14 +142,17 @@ In this exercise, you will implement regularized linear regression and use it to
 |:-------------:|:--------:|:----:|
 | 4 | Polynomial Feature Mapping | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 
-| Polynomial Fit - Overfitting - lambda = 0| 
-|:-------------:|
-| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/PolynomialFitPlot.svg?raw=true"> |
+Using Polynomial Feature Mapping to make de model more complex.
 
-| Polynomial Learning Curve |
-|:-------------:|
-| Showing a high variance problem (Overfit) |
-| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LearningCurveAfterPlot.svg?raw=true"> |
+| Polynomial Fit - lambda = 0 | Polynomial Learning Curve |
+|:-------------:|:-------------:|
+| Overfitting | Showing a High Variance Problem (Overfit) |
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/PolynomialFitPlot.svg?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LearningCurveAfterPlot.svg?raw=true"> |
+
+| Polynomial Fit - lambda = 1 | Polynomial Learning Curve |
+|:-------------:|:-------------:|
+| Good Fit | Low Variance and Bias |
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/PolynomialFitLambda1Plot.svg?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LearningCurveLambda1Plot.svg?raw=true"> |
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
