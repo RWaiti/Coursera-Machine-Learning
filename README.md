@@ -120,10 +120,12 @@ In this exercise, you will implement regularized linear regression and use it to
 |:-------------:|
 ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/DataPlot.svg?raw=true">
 
+
+
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
 1 | Regularized Linear Regression Cost Function |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-2 | Regularized Linear Regression Gradient |
-3 | Learning Curve |
+2 | Regularized Linear Regression Gradient |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+3 | Learning Curve |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 4 | Polynomial Feature Mapping |
 5 | Cross Validation Curve |
