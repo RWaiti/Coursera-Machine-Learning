@@ -116,10 +116,13 @@ In this exercise, you will implement the backpropagation algorithm for neural ne
 ***Programming Exercise 5 - Regularized Linear Regression and Bias v.s. Variance*** </br>
 In this exercise, you will implement regularized linear regression and use it to study models with diferent bias-variance properties.
 
+| Training Data |
+|:-------------:|
+![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/DataPlot.svg?raw=true">
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-1 | Regularized Linear Regression Cost Function |
+1 | Regularized Linear Regression Cost Function |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 2 | Regularized Linear Regression Gradient |
 3 | Learning Curve |
 4 | Polynomial Feature Mapping |
