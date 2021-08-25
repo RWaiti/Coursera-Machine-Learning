@@ -128,7 +128,8 @@ In this exercise, you will implement regularized linear regression and use it to
 2 | Regularized Linear Regression Gradient |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 3 | Learning Curve |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
 
-| Linear Regression Learning Curve - Showing a high bias problem (Underfit) |
+| Linear Regression Learning Curve
+Showing a high bias problem (Underfit) |
 |:-------------:|
 ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LearningCurvePlot.svg?raw=true">
 
