@@ -144,10 +144,10 @@ Using Polynomial Feature Mapping to make de model more complex.
 | Overfitting | Showing a High Variance Problem (Overfit) |
 | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/PolynomialFitPlot.svg?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LearningCurveAfterPlot.svg?raw=true"> |
 
-| Polynomial Fit - lambda = 1 | Polynomial Learning Curve |
+| Polynomial Fit - lambda = 3 | Polynomial Learning Curve |
 |:-------------:|:-------------:|
 | Good Fit | Low Variance and Bias |
-| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/PolynomialFitLambda1Plot.svg?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LearningCurveLambda1Plot.svg?raw=true"> |
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/PolynomialFitLambda3Plot.svg?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LearningCurveLambda3Plot.svg?raw=true"> |
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
