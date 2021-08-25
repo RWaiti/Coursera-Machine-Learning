@@ -135,5 +135,6 @@ In this exercise, you will implement regularized linear regression and use it to
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-4 | Polynomial Feature Mapping |
+4 | Polynomial Feature Mapping |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+
 5 | Cross Validation Curve |
