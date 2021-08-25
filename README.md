@@ -133,11 +133,6 @@ In this exercise, you will implement regularized linear regression and use it to
 | Underfitting | Showing a high bias problem (Underfit) |
 | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LinearFitPlot.svg?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LearningCurvePlot.svg?raw=true"> |
 
-| Linear Regression Learning Curve |
-|:-------------:|
-| Showing a high bias problem (Underfit) |
-| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LearningCurvePlot.svg?raw=true"> |
-
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
 | 4 | Polynomial Feature Mapping | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
