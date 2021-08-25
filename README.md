@@ -130,7 +130,7 @@ In this exercise, you will implement regularized linear regression and use it to
 
 | Linear Fit | Linear Regression Learning Curve |
 |:-------------:|:-------------:|
-| Underfitting | Showing a high bias problem (Underfit) |
+| Underfitting | High Bias Problem (Underfit) |
 | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LinearFitPlot.svg?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LearningCurvePlot.svg?raw=true"> |
 
 | Exercise Part | Exercise | Done |
@@ -141,7 +141,7 @@ Using Polynomial Feature Mapping to make de model more complex.
 
 | Polynomial Fit - lambda = 0 | Polynomial Learning Curve |
 |:-------------:|:-------------:|
-| Overfitting | Showing a High Variance Problem (Overfit) |
+| Overfitting | High Variance Problem (Overfit) |
 | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/PolynomialFitPlot.svg?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LearningCurveAfterPlot.svg?raw=true"> |
 
 | Polynomial Fit - lambda = 3 | Polynomial Learning Curve |
