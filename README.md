@@ -144,10 +144,10 @@ In this exercise, you will implement regularized linear regression and use it to
 |:-------------:|:--------:|:----:|
 | 4 | Polynomial Feature Mapping | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 
-| Polynomial Fit - lambda = 0 | 
+| Polynomial Fit - Overfitting - lambda = 0| 
 |:-------------:|
-| Overfitting | 
 | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/PolynomialFitPlot.svg?raw=true"> |
+
 | Polynomial Learning Curve |
 |:-------------:|
 | Showing a high variance problem (Overfit) |
