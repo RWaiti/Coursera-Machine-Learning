@@ -8,27 +8,27 @@ In this part of this exercise, you will implement linear regression with one var
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-1 | Warm up exercise | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-2 | Compute cost for one variable | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-3 | Gradient descent for one variable | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+| 1 | Warm up exercise | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+| 2 | Compute cost for one variable | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+| 3 | Gradient descent for one variable | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 
 | Training Data |
 |:-------------:|
-![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/DataPlot.svg?raw=true">
-Training Linear Regression with One Variable Result</br>
-![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/GradientDescentOneVariable.svg?raw=true">
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/DataPlot.svg?raw=true"> |
+| Training Linear Regression with One Variable Result</br> |
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/GradientDescentOneVariable.svg?raw=true"> |
 
 | Surface | Contour with minimun(X) |
 |:-------:|:-----------------------:|
-![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/Surface-J-Theta0Theta1-.svg?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/Contour-J-theta0theta1-.svg?raw=true">
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/Surface-J-Theta0Theta1-.svg?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/Contour-J-theta0theta1-.svg?raw=true"> |
 
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-4 | Feature normalization | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-5 | Compute cost for multiple variables | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-6 | Gradient descent for multiple variables |
-7 | Normal equations | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+| 4 | Feature normalization | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+| 5 | Compute cost for multiple variables | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+| 6 | Gradient descent for multiple variables |
+| 7 | Normal equations | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 
 </br>
 
@@ -38,31 +38,31 @@ In this part of the exercise, you will build a logistic regression model to pred
 
 | Training Data |
 |:-------------:|
-![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataPlot.svg?raw=true">
-Non Regularized Logistic Regression Decision Boundary</br>
-![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataDecisionBoundary.svg?raw=true">
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataPlot.svg?raw=true"> |
+| Non Regularized Logistic Regression Decision Boundary |
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataDecisionBoundary.svg?raw=true"> |
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-1 | Sigmoid function |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-2 | Compute cost for logistic regression | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-3 | Gradient for logistic regression | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-4 | Predict function | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+| 1 | Sigmoid function |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+| 2 | Compute cost for logistic regression | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+| 3 | Gradient for logistic regression | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+| 4 | Predict function | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 
 | Training Data |
 |:-------------:|
-![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataPlotReg.svg?raw=true">
-Regularized Logistic Regression Decision Boundary</br>
-![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataRegDecisionBoundary.svg?raw=true">
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataPlotReg.svg?raw=true"> |
+| Regularized Logistic Regression Decision Boundary |
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataRegDecisionBoundary.svg?raw=true"> |
 
 | Underfitting | Overfitting |
 |:------------:|:-----------:|
-![Alt text](https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataRegDecisionBoundaryUnderfitting.svg?raw=true "Decision Boundary with Underfitting") | ![Alt text](https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataRegDecisionBoundaryOverfitting.svg?raw=true "Decision Boundary with Overfitting")
+| ![Alt text](https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataRegDecisionBoundaryUnderfitting.svg?raw=true "Decision Boundary with Underfitting") | ![Alt text](https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex2/images/DataRegDecisionBoundaryOverfitting.svg?raw=true "Decision Boundary with Overfitting") |
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-5 | Compute cost for regularized LR | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-6 | Gradient for regularized LR | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+| 5 | Compute cost for regularized LR | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+| 6 | Gradient for regularized LR | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 
 </br>
 
@@ -72,32 +72,32 @@ In this exercise, you will implement one-vs-all logistic regression and neural n
 
 | Training Data Sample (100 from 5000 images) |
 |:--------------------:|
-![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/dataSample.png?raw=true">
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/dataSample.png?raw=true"> |
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-1 | Regularized logistic regression | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-2 | One-vs-all classifier training | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-3 | One-vs-all classifier prediction | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+| 1 | Regularized logistic regression | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+| 2 | One-vs-all classifier training | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+| 3 | One-vs-all classifier prediction | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 
 In this part of the exercise, you will implement a neural network to recognize handwritten digits using the same training set as before. The neural network will be able to represent complex models that form non-linear hypotheses. For this week, you will be using parameters from a neural network that we have already trained. Your goal is to implement the feedforward propagation algorithm to use our weights for prediction.
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-4 | Neural network prediction function | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+| 4 | Neural network prediction function | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 
 Octave doesn't have 0 index, so we are using 10 to index the number 0.
 
 |     |     |     |     |     |
 |:---:|:---:|:---:|:---:|:---:|
-![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction0.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction0.2.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction1.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction1.2.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction2.png?raw=true">
-![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction2.2.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction3.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction3.2.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction4.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction4.2.png?raw=true">
-![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction5.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction5.2.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction6.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction6.2.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction7.png?raw=true">
-![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction7.2.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction8.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction8.2.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction9.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction9.2.png?raw=true">
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction0.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction0.2.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction1.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction1.2.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction2.png?raw=true"> |
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction2.2.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction3.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction3.2.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction4.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction4.2.png?raw=true"> |
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction5.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction5.2.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction6.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction6.2.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction7.png?raw=true"> |
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction7.2.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction8.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction8.2.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction9.png?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction9.2.png?raw=true"> |
 
 | GIF |
 |:---:|
-|![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction.gif?raw=true">|
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction.gif?raw=true"> |
 
 
 ***Programming Exercise 4 - Neural Networks Learning*** </br>
@@ -106,11 +106,11 @@ In this exercise, you will implement the backpropagation algorithm for neural ne
  
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-1 | Feedforward and Cost Function | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-2 | Regularized Cost Function | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-3 | Sigmoid Gradient | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-4 | Neural Net Gradient Function (Backpropagation) | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-5 | Regularized Gradient | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+| 1 | Feedforward and Cost Function | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+| 2 | Regularized Cost Function | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+| 3 | Sigmoid Gradient | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+| 4 | Neural Net Gradient Function (Backpropagation) | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+| 5 | Regularized Gradient | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 
 
 ***Programming Exercise 5 - Regularized Linear Regression and Bias v.s. Variance*** </br>
@@ -118,23 +118,38 @@ In this exercise, you will implement regularized linear regression and use it to
 
 | Training Data |
 |:-------------:|
-![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/DataPlot.svg?raw=true">
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/DataPlot.svg?raw=true"> |
 
 
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-1 | Regularized Linear Regression Cost Function |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-2 | Regularized Linear Regression Gradient |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
-3 | Learning Curve |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+| 1 | Regularized Linear Regression Cost Function | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+| 2 | Regularized Linear Regression Gradient | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+
+| Linear Fit - Underfitting |
+|:-------------:|
+| Showing a high bias problem (Underfit) |
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LinearFitPlot.svg?raw=true"> |
+
+| Exercise Part | Exercise | Done |
+|:-------------:|:--------:|:----:|
+| 3 | Learning Curve | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 
 | Linear Regression Learning Curve |
 |:-------------:|
 | Showing a high bias problem (Underfit) |
-![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LearningCurvePlot.svg?raw=true">
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LearningCurvePlot.svg?raw=true"> |
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-4 | Polynomial Feature Mapping |![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30">
+| 4 | Polynomial Feature Mapping | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 
-5 | Cross Validation Curve |
+| Polynomial Fit - lambda = 0  | Polynomial Learning Curve |
+|:-------------:|:-------------:|
+| Overfitting | Showing a high variance problem (Overfit) |
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/PolynomialFitPlot.svg?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LearningCurveAfterPlot.svg?raw=true"> |
+
+| Exercise Part | Exercise | Done |
+|:-------------:|:--------:|:----:|
+5 | Cross Validation Curve | |
