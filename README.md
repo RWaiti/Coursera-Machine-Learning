@@ -137,7 +137,7 @@ In this exercise, you will implement regularized linear regression and use it to
 |:-------------:|:--------:|:----:|
 | 4 | Polynomial Feature Mapping | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 
-Using Polynomial Feature Mapping to make de model more complex.
+Using Polynomial Feature Mapping to make the model more complex.
 
 | Polynomial Fit - lambda = 0 | Polynomial Learning Curve |
 |:-------------:|:-------------:|
