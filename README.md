@@ -152,3 +152,13 @@ Using Polynomial Feature Mapping to make the model more complex.
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
 5 | Cross Validation Curve | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+
+***Programming Exercise 6: Support Vector Machines*** </br>
+In this exercise, you will be using support vector machines (SVMs) to build a spam classifier.
+
+| Exercise Part | Exercise | Done |
+|:-------------:|:--------:|:----:|
+| 1 | Gaussian Kernel |
+| 2 | Parameters (C, σ) for Dataset 3 |
+| 3 | Email Preprocessing |
+| 4 | Email Feature Extraction |
