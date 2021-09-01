@@ -158,7 +158,7 @@ In this exercise, you will be using support vector machines (SVMs) to build a sp
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-| 1 | Gaussian Kernel |
+| 1 | Gaussian Kernel | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 | 2 | Parameters (C, σ) for Dataset 3 |
 | 3 | Email Preprocessing |
 | 4 | Email Feature Extraction |
