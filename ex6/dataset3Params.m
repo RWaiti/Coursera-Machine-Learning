@@ -30,7 +30,7 @@ for i = 1:size(C_temp,1)
     for j = 1:size(sigma_temp,1)
         model = svmTrain(X, y, C_temp(i), @(x1, x2) gaussianKernel(x1, x2, sigma_temp(j)));
         predictions = svmPredict(model, Xval);
-        visualizeBoundary(X, y, model);
+        
         if mean(double(predictions != yval)) < predict;
             predict = mean(double(predictions != yval));
             C = C_temp(i);
