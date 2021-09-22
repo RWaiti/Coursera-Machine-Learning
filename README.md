@@ -162,3 +162,14 @@ In this exercise, you will be using support vector machines (SVMs) to build a sp
 | 2 | Parameters (C, σ) for Dataset 3 | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 | 3 | Email Preprocessing | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 | 4 | Email Feature Extraction | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+
+***Programming Exercise 7 - K-means Clustering and Principal Component Analysis*** </br>
+In this exercise, you will implement the K-means clustering algorithm and apply it to compress an image. In the second part, you will use principal component analysis to find a low-dimensional representation of face images.
+
+| Exercise Part | Exercise | Done |
+|:-------------:|:--------:|:----:|
+| 1 | Find Closest Centroids |  |
+| 2 | Compute Centroid Means |  |
+| 3 | PCA |  |
+| 4 | Project Data |  |
+| 5 | Recover Data |  |
