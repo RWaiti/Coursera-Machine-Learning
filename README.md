@@ -192,6 +192,6 @@ In this exercise, you will use principal component analysis (PCA) to perform dim
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-| 3 | PCA |  |
-| 4 | Project Data |  |
-| 5 | Recover Data |  |
+| 3 | PCA | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+| 4 | Project Data | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+| 5 | Recover Data | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
