@@ -193,5 +193,24 @@ In this exercise, you will use principal component analysis (PCA) to perform dim
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
 | 3 | PCA | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+
+| Dataset | Computed eigenvectors |
+|:-------:|:-----------------------:|
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/dataset.svg?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/dataset_eigenvectors.svg?raw=true"> |
+
+| Exercise Part | Exercise | Done |
+|:-------------:|:--------:|:----:|
 | 4 | Project Data | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 | 5 | Recover Data | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+
+| Dataset | Projected(red) and Reconstructed(blue) data |
+|:--------------------------:|
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/dataset.svg?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex7/images/projectedData.svg?raw=true"> |
+
+| PCA on the face dataset|
+|:------------------------:|
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex7/images/dimensionalReduction.jpg?raw=true"> |
+
+| Original and Reconstructed Images|
+|:--------------------------------------------:|
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex7/images/original_and_recovered.jpg?raw=true"> |
