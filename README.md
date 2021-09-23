@@ -188,6 +188,8 @@ In this exercise, you will implement the K-means clustering algorithm and apply 
 |:--------------------------:|
 | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex7/images/compressed_16_colors.png?raw=true"> |
 
+In this exercise, you will use principal component analysis (PCA) to perform dimensionality reduction. You will first experiment with an example 2D dataset to get intuition on how PCA works, and then use it on a bigger dataset of 5000 face image dataset.
+
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
 | 3 | PCA |  |
