@@ -196,7 +196,7 @@ In this exercise, you will use principal component analysis (PCA) to perform dim
 
 | Dataset | Computed eigenvectors |
 |:-------:|:-----------------------:|
-| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/dataset.svg?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex1/images/dataset_eigenvectors.svg?raw=true"> |
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex7/images/dataset.svg?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex7/images/dataset_eigenvectors.svg?raw=true"> |
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
