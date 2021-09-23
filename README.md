@@ -178,7 +178,14 @@ In this exercise, you will implement the K-means clustering algorithm and apply 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
 | 1 | Find Closest Centroids | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
-| 2 | Compute Centroid Means |  |
+| 2 | Compute Centroid Means | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+
+| K-means iteration GIF |
+|:--------------------------:|
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex7/images/computeCentroids.gif?raw=true"> |
+
+| Exercise Part | Exercise | Done |
+|:-------------:|:--------:|:----:|
 | 3 | PCA |  |
 | 4 | Project Data |  |
 | 5 | Recover Data |  |
