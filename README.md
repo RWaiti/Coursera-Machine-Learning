@@ -1,10 +1,10 @@
 # Coursera - Programming Exercise - Machine Learning by Stanford University
- 
- Sendo feito em Octave 6.2.0, pois o Professor Andrew Ng percebeu que quando usava Octave os alunos entendiam mais a matéria, mas tenho objetivo de refazer em Python.
 
-***Programming Exercise 1 - Linear Regression***</br>
+ *Sendo feito em Octave 6.2.0, pois o Professor Andrew Ng percebeu que quando usava Octave os alunos entendiam mais a matéria, mas tenho objetivo de refazer em Python.*
+
+### *Programming Exercise 1 - Linear Regression*
+
 In this part of this exercise, you will implement linear regression with one variable to predict profits for a food truck. Suppose you are the CEO of a restaurant franchise and are considering different cities for opening a new outlet. The chain already has trucks in various cities and you have data for profits and populations from the cities. You would like to use this data to help you select which city to expand to next.
-
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
@@ -30,11 +30,11 @@ In this part of this exercise, you will implement linear regression with one var
 | 6 | Gradient descent for multiple variables |
 | 7 | Normal equations | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 
-</br>
+</br></br></br>
 
-***Programming Exercise 2 - Logistic Regression***</br>
+### *Programming Exercise 2 - Logistic Regression*
+
 In this part of the exercise, you will build a logistic regression model to predict whether a student gets admitted into a university. Suppose that you are the administrator of a university department and you want to determine each applicant's chance of admission based on their results on two exams. You have historical data from previous applicants that you can use as a training set for logistic regression. For each training example, you have the applicant's scores on two exams and the admissions decision. Your task is to build a classification model that estimates an applicant's probability of admission based the scores from those two exams.
-
 
 | Training Data |
 |:-------------:|
@@ -64,14 +64,15 @@ In this part of the exercise, you will build a logistic regression model to pred
 | 5 | Compute cost for regularized LR | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 | 6 | Gradient for regularized LR | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 
-</br>
+</br></br></br>
 
-***Programming Exercise 3 - Multi-class Classification and Neural Networks***</br>
+### *Programming Exercise 3 - Multi-class Classification and Neural Networks*
+
 In this exercise, you will implement one-vs-all logistic regression and neural networks to recognize hand-written digits.
 
 
 | Training Data Sample (100 from 5000 images) |
-|:--------------------:|
+|:-------------------------------------------:|
 | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/dataSample.png?raw=true"> |
 
 | Exercise Part | Exercise | Done |
@@ -99,8 +100,10 @@ Octave doesn't have 0 index, so we are using 10 to index the number 0.
 |:---:|
 | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex3/images/prediction.gif?raw=true"> |
 
+</br></br></br>
 
-***Programming Exercise 4 - Neural Networks Learning*** </br>
+### *Programming Exercise 4 - Neural Networks Learning*
+
 In this exercise, you will implement the backpropagation algorithm for neural networks and apply it to the task of hand-written digit recognition.
 
  
@@ -112,15 +115,15 @@ In this exercise, you will implement the backpropagation algorithm for neural ne
 | 4 | Neural Net Gradient Function (Backpropagation) | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 | 5 | Regularized Gradient | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 
+</br></br></br>
 
-***Programming Exercise 5 - Regularized Linear Regression and Bias v.s. Variance*** </br>
+### *Programming Exercise 5 - Regularized Linear Regression and Bias v.s. Variance*
+
 In this exercise, you will implement regularized linear regression and use it to study models with diferent bias-variance properties.
 
 | Training Data |
 |:-------------:|
 | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/DataPlot.svg?raw=true"> |
-
-
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
@@ -140,12 +143,12 @@ In this exercise, you will implement regularized linear regression and use it to
 Using Polynomial Feature Mapping to make the model more complex.
 
 | Polynomial Fit - lambda = 0 | Polynomial Learning Curve |
-|:-------------:|:-------------:|
+|:---------------------------:|:-------------------------:|
 | Overfitting | High Variance Problem (Overfit) |
 | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/PolynomialFitPlot.svg?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LearningCurveAfterPlot.svg?raw=true"> |
 
 | Polynomial Fit - lambda = 3 | Polynomial Learning Curve |
-|:-------------:|:-------------:|
+|:---------------------------:|:-------------------------:|
 | Good Fit | Low Variance and Bias |
 | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/PolynomialFitLambda3Plot.svg?raw=true"> | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex5/images/LearningCurveLambda3Plot.svg?raw=true"> |
 
@@ -153,7 +156,10 @@ Using Polynomial Feature Mapping to make the model more complex.
 |:-------------:|:--------:|:----:|
 5 | Cross Validation Curve | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 
-***Programming Exercise 6: Support Vector Machines*** </br>
+</br></br></br>
+
+### *Programming Exercise 6: Support Vector Machines*
+
 In this exercise, you will be using support vector machines (SVMs) to build a spam classifier.
 
 | Exercise Part | Exercise | Done |
@@ -163,7 +169,10 @@ In this exercise, you will be using support vector machines (SVMs) to build a sp
 | 3 | Email Preprocessing | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 | 4 | Email Feature Extraction | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 
-***Programming Exercise 7 - K-means Clustering and Principal Component Analysis*** </br>
+</br></br></br>
+
+### *Programming Exercise 7 - K-means Clustering and Principal Component Analysis*
+
 In this exercise, you will implement the K-means clustering algorithm and apply it to compress an image. In the second part, you will use principal component analysis to find a low-dimensional representation of face images.
 
 | Exercise Part | Exercise | Done |
