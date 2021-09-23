@@ -184,6 +184,10 @@ In this exercise, you will implement the K-means clustering algorithm and apply 
 |:--------------------------:|
 | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex7/images/computeCentroids.gif?raw=true"> |
 
+| Image compression with K-means |
+|:--------------------------:|
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex7/images/compressed_16_colors.png?raw=true"> |
+
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
 | 3 | PCA |  |
