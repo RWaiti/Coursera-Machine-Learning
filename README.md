@@ -177,7 +177,7 @@ In this exercise, you will implement the K-means clustering algorithm and apply 
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-| 1 | Find Closest Centroids |  |
+| 1 | Find Closest Centroids | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 | 2 | Compute Centroid Means |  |
 | 3 | PCA |  |
 | 4 | Project Data |  |
