@@ -221,9 +221,15 @@ In this exercise, you will use principal component analysis (PCA) to perform dim
 
 In this exercise, you will implement the anomaly detection algorithm and apply it to detect failing servers on a network. In the second part, you will use collaborative ltering to build a recommender system for movies.
 
+| Training Data |
+|:-------------:|
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex8/images/DataPlot.svg?raw=true"> |
+| Training Linear Regression with One Variable Result</br> |
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex8/images/DataPlot-and-GaussianEstimation.svg?raw=true"> |
+
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-| 1 | Estimate Gaussian Parameters | |
+| 1 | Estimate Gaussian Parameters | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 | 2 | Select Threshold | |
 | 3 | Collaborative Filtering Cost | |
 | 4 | Collaborative Filtering Gradient | |
