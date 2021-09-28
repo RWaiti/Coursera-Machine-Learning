@@ -240,7 +240,7 @@ In this part of the exercise, you will implement the collaborative filtering lea
 
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
-| 3 | Collaborative Filtering Cost | |
+| 3 | Collaborative Filtering Cost | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
 | 4 | Collaborative Filtering Gradient | |
 | 5 | Regularized Cost | |
 | 6 | Gradient with regularization | |
