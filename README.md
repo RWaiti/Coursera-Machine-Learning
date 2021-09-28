@@ -214,3 +214,18 @@ In this exercise, you will use principal component analysis (PCA) to perform dim
 | Original and Reconstructed Images|
 |:--------------------------------------------:|
 | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex7/images/original_and_recovered.jpg?raw=true"> |
+
+</br></br>
+
+- ### *Programming Exercise 8 - Anomaly Detection and Recommender Systems*
+
+In this exercise, you will implement the anomaly detection algorithm and apply it to detect failing servers on a network. In the second part, you will use collaborative ltering to build a recommender system for movies.
+
+| Exercise Part | Exercise | Done |
+|:-------------:|:--------:|:----:|
+| 1 | Estimate Gaussian Parameters | |
+| 2 | Select Threshold | |
+| 3 | Collaborative Filtering Cost | |
+| 4 | Collaborative Filtering Gradient | |
+| 5 | Regularized Cost | |
+| 6 | Gradient with regularization | |
