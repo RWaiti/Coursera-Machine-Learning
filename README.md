@@ -236,6 +236,8 @@ In this exercise, you will implement the anomaly detection algorithm and apply i
 |:-------------:|
 | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex8/images/DataPlot-and-DetectedAnomaly.svg?raw=true"> |
 
+In this part of the exercise, you will implement the collaborative filtering learning algorithm and apply it to a dataset of movie ratings.
+
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
 | 3 | Collaborative Filtering Cost | |
