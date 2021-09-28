@@ -230,7 +230,14 @@ In this exercise, you will implement the anomaly detection algorithm and apply i
 | Exercise Part | Exercise | Done |
 |:-------------:|:--------:|:----:|
 | 1 | Estimate Gaussian Parameters | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
-| 2 | Select Threshold | |
+| 2 | Select Threshold | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/check-mark-emoji.png?raw=true" width="30" height="30"> |
+
+| Detected Anomaly |
+|:-------------:|
+| ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex8/images/DataPlot-and-DetectedAnomaly.svg?raw=true"> |
+
+| Exercise Part | Exercise | Done |
+|:-------------:|:--------:|:----:|
 | 3 | Collaborative Filtering Cost | |
 | 4 | Collaborative Filtering Gradient | |
 | 5 | Regularized Cost | |
