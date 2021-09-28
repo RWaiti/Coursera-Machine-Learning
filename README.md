@@ -224,7 +224,7 @@ In this exercise, you will implement the anomaly detection algorithm and apply i
 | Training Data |
 |:-------------:|
 | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex8/images/DataPlot.svg?raw=true"> |
-| Training Linear Regression with One Variable Result</br> |
+| Training Data with Gaussian Estimation Contours|
 | ![](src)<img src="https://github.com/RWaiti/Coursera-Machine-Learning/blob/main/ex8/images/DataPlot-and-GaussianEstimation.svg?raw=true"> |
 
 | Exercise Part | Exercise | Done |
