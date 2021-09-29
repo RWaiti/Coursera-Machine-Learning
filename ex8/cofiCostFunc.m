@@ -43,8 +43,10 @@ J = (1/2) * sum(sum(((X*Theta' - Y).^2) .* R)); %Cost Function
 J = J + ((lambda/2) * sum(sum(Theta.^2))) + ((lambda/2) * sum(sum(X.^2))); % Adding Regularization
 
 X_grad = ((X*Theta' - Y) .* R) * Theta; % X Gradient
-Theta_grad = ((X*Theta' - Y) .* R)' * X; % Theta Gradient
+X_grad = X_grad .+ (lambda .* X); % Adding Regularization
 
+Theta_grad = ((X*Theta' - Y) .* R)' * X; % Theta Gradient
+Theta_grad = Theta_grad .+ (lambda .* Theta); % Adding Regularization
 
 % =============================================================
 
